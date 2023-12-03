@@ -1,4 +1,4 @@
-<php
+<?php
 
  function sumArrays($numberJson, $shouldFormat): string {
         $mainArray = json_decode($numberJson, true);
